@@ -1,0 +1,32 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\angel\\\\Documents\\\\Escuela\\\\6to semestre\\\\Desarrollo apps web\\\\Meta_3.3\\\\frontend\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "personas",
+    "path": "/personas",
+    "component": "C:\\\\Users\\\\angel\\\\Documents\\\\Escuela\\\\6to semestre\\\\Desarrollo apps web\\\\Meta_3.3\\\\frontend\\\\pages\\\\personas.vue",
+    "chunkName": "pages/personas"
+  },
+  {
+    "name": "propiedades",
+    "path": "/propiedades",
+    "component": "C:\\\\Users\\\\angel\\\\Documents\\\\Escuela\\\\6to semestre\\\\Desarrollo apps web\\\\Meta_3.3\\\\frontend\\\\pages\\\\propiedades.vue",
+    "chunkName": "pages/propiedades"
+  },
+  {
+    "name": "registro",
+    "path": "/registro",
+    "component": "C:\\\\Users\\\\angel\\\\Documents\\\\Escuela\\\\6to semestre\\\\Desarrollo apps web\\\\Meta_3.3\\\\frontend\\\\pages\\\\registro.vue",
+    "chunkName": "pages/registro"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\angel\\\\Documents\\\\Escuela\\\\6to semestre\\\\Desarrollo apps web\\\\Meta_3.3\\\\frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

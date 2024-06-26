@@ -1,0 +1,30 @@
+{
+  "development": {
+    "username": "backenduser",
+    "password": "superpassword",
+    "database": "propiedades",
+    "host": "localhost",
+    "dialect": "mysql",
+    "timezone": "-07:00",
+    "logging":false,
+    "dialectOptions":{
+      "useUTC": false,
+      "dataString": true,
+      "typeCast": true
+    }
+  },
+  "test": {
+    "username": "backenduser",
+    "password": "superpassword",
+    "database": "propiedades",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "backenduser",
+    "password": "superpassword",
+    "database": "propiedades",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}

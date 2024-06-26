@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Forms</h2>
+
+<form action="https://localhost:4000/personas/editar" method="POST">
+    <label>First name</label>
+    <input name="first_name[]">
+    
+    <label>Last name</label>
+    <input name="last_name[]">
+    
+    <label>Email</label>
+    <input name="email[]">
+    
+    Person 2:
+    <label>First name</label>
+    <input name="first_name[]">
+    
+    <label>Last name</label>
+    <input name="last_name[]">
+    
+    <label>Email</label>
+    <input name="email[]">
+  <input type="submit" value="Submit">
+</form> 
+
+<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+
+</body>
+</html>
